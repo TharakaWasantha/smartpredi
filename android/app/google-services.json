@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "696622386388",
+    "project_id": "agrogenicprl",
+    "storage_bucket": "agrogenicprl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696622386388:android:a81bfb342244ab6bccff41",
+        "android_client_info": {
+          "package_name": "com.example.agrogenicprl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696622386388-vbh2587hfoiel7b2j783l8flhjlhtl7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPNMRIvTutPeaj4ARQnH978cWd6iNWglw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696622386388-vbh2587hfoiel7b2j783l8flhjlhtl7n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "696622386388-k26jmablg0tjgon9of25dk905sod072e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.agrogenicprl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
