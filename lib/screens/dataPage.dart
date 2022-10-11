@@ -78,7 +78,7 @@ class _DataPageState extends State<DataPage> {
         _coolingStatus = mapData["Cooling"]["Fan"]["Fan_status"];
         _pestRepellentDestinationRange =
             mapData["Pest_Repellent"]["Destination"]["Range"];
-        _pestRepellentPirStatus = mapData["Pest_Repellent1"]["PIR"]["Status"];
+        // _pestRepellentPirStatus = mapData["Pest_Repellent1"]["PIR"]["Status"];
 
         RgbEffects rgbEffects = RgbEffects.fromJson(mapData);
         _rgbEffectsRange = rgbEffects.rgbEffects.range.toString();

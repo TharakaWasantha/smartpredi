@@ -1,4 +1,5 @@
 import 'package:agrogenicprl/authentication/startup_screen.dart';
+import 'package:agrogenicprl/screens/PirDataPage.dart';
 import 'package:agrogenicprl/screens/dashboard.dart';
 import 'package:agrogenicprl/screens/dataPage.dart';
 import 'package:agrogenicprl/utils/bottomnavi.dart';
@@ -25,7 +26,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(),
       //home:  splashScreen()
       // home:  Dashboard()
-      home: const DataPage(),
+      // home: const DataPage(),
+      home: const PIRDataPage(),
     );
   }
 }
